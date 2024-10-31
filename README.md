@@ -3,9 +3,11 @@
 ## Project Overview
 This project focuses on creating a comprehensive and visually engaging Power BI dashboard to analyze call center trends. The purpose is to provide insights into key performance metrics, enabling effective management discussions and data-driven decision-making. The dashboard presents metrics such as the total number of calls answered and abandoned, speed of answer, call duration, and customer satisfaction scores.
 
-## Demo Video
 
-[Download the demo video](Dashboard call center_1.mp4)
+![Call Center Dashboard](https://github.com/Fatimah30/Call-Center-Analytics-Dashboard-using-Power-BI/blob/main/Call%20Center.png)
+
+*Figure 1: Call Center Dashboard displaying key metrics.*
+
 
 ## Features
 - **Call Summary**: Visual breakdown of total calls answered and abandoned.
